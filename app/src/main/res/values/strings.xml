@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wuthering Waves Character List</string>
+    <string name="character_image">Character Image</string>
+    <string name="character_name">Character Name</string>
+    <string name="character_description">Character Description</string>
+    <string name="wuthering_waves_character_list">Wuthering Waves Character List</string>
+    <string name="aalto_description">Ini adalah deskripsi karakter Aalto.</string>
+    <string name="baizhi_description">Ini adalah deskripsi karakter Baizhi.</string>
+    <string name="chalcaro_description">Ini adalah deskripsi karakter Chalcaro.</string>
+
+
+
+</resources>
