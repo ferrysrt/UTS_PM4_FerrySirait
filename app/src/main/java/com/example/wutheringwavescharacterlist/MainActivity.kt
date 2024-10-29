@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
             Character("Jiyan", getString(R.string.jiyan_description), R.drawable.jiyan),
             Character("Lingyang", getString(R.string.lingyang_description), R.drawable.lingyang),
             Character("Mortefi", getString(R.string.mortefi_description), R.drawable.mortefi),
-            Character("Rover", getString(R.string.rover_description), R.drawable.mortefi),
+            Character("Rover", getString(R.string.rover_description), R.drawable.rover),
             Character("Sanhua", getString(R.string.sanhua_description), R.drawable.sanhua),
             Character("Shorekeeper", getString(R.string.shorekeeper_description), R.drawable.shorekeeper),
             Character("Taoqi", getString(R.string.taoqi_description), R.drawable.taoqi),
