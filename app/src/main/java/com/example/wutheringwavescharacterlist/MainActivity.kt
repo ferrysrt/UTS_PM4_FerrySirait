@@ -44,5 +44,6 @@ class MainActivity : AppCompatActivity() {
 
         binding.recyclerView.layoutManager = LinearLayoutManager(this)
         binding.recyclerView.adapter = CharacterAdapter(this, characters)
+
     }
 }
