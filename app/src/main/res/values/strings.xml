@@ -4,10 +4,168 @@
     <string name="character_name">Character Name</string>
     <string name="character_description">Character Description</string>
     <string name="wuthering_waves_character_list">Wuthering Waves Character List</string>
-    <string name="aalto_description">Ini adalah deskripsi karakter Aalto.</string>
-    <string name="baizhi_description">Ini adalah deskripsi karakter Baizhi.</string>
-    <string name="chalcaro_description">Ini adalah deskripsi karakter Chalcaro.</string>
 
+    <string name="aalto_description">
+        Aalto is an enigmatic Information Broker, known for his elusive nature and welcoming smile. Rumor has it he will provide any information at the right price.\n\n
+        Weapon: Pistols\n
+        Rarity: ★★★★\n
+        Element: Aero\n\n
+    </string>
+
+
+    <string name="baizhi_description">
+        Baizhi is a researcher in Remnant Ecoacoustics. Baizhi is once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature Youtan is her source of healing powers, and a lifelong research focus.\n\n
+        Weapon: Rectifier\n
+        Rarity: ★★★★\n
+        Element: Glacio\n
+    </string>
+
+    <string name="chalcaro_description">
+        Leader of the "Ghost Hounds", an international mercenary group. Ruthless, vengeful, unforgiving. A potential client must be mindful of the price to pay before making him an offer.\n\n
+        Weapon: Broadblade\n
+        Rarity: ★★★★★\n
+        Element: Electro\n
+    </string>
+
+    <string name="changli_description">
+        Changli is a counselor serving the Jinzhou Magistrate, and former Secretary-General in the capital. Shrouded in flames, she is fated to burn brightly until her final embers. With her fiery determination and strategic mindset, she rises to power, always thinking ahead to reach her ultimate goal.\n\n
+        Weapon:Sword\n
+        Rarity: ★★★★★\n
+        Element: Fusion\n
+    </string>
+
+    <string name="chixia_description">
+        Chixia is a spirited young Patroller who lights up the streets of Jinzhou. She’s always ready to be the hero someone needs.\n\n
+        Weapon: Pistols\n
+        Rarity: ★★★★\n
+        Element: Fusion\n
+    </string>
+
+    <string name="danjin_description">
+        With a vengeful blade of condensed blood in hand, Ranger Danjin hunts down thieves and bandits for retribution. She journeys to distant lands in pursuit of justice.\n\n
+        Weapon: Sword\n
+        Rarity: ★★★★\n
+        Element: Havoc\n
+    </string>
+
+    <string name="encore_description">
+        A girl accompanied by one black and one white Wooly plushies. Encore, consultant from the Black Shores, is longing to create happy stories with candies, fairy tales, and her imagination.\n\n
+        Weapon: Rectifier\n
+        Rarity: ★★★★★\n
+        Element: Fusion\n
+    </string>
+
+    <string name="jianxin_description">
+        Jianxin, a Taoist monk and successor of Fengyiquan, has dedicated her life to mastering the ultimate martial art. With the power to harness and transform environmental Chi, she can create protective barriers that purify both body and mind.\n\n
+        Weapon: Gauntlets\n
+        Rarity: ★★★★★\n
+        Element: Aero\n
+    </string>
+
+    <string name="jinshi_description">
+        Jinhsi, Magistrate of Jinzhou, gently brightens the hopes of her people, like rays of winter sunlight. As the revered Sentinels Appointed Resonator, she displays humility and wholeheartedly commits herself to guiding her people towards a brilliant future.\n\n
+        Weapon: Broadblade\n
+        Rarity: ★★★★★\n
+        Element: Spectro\n
+    </string>
+
+    <string name="jiyan_description">
+        Jiyan, leader of the Midnight Rangers, acts with swift and resolute righteousness. He possesses the formidable ability to conjure a powerful Qingloong from the winds, making him invincible on the battlefield.\n\n
+        Weapon: Broadblade\n
+        Rarity: ★★★★★\n
+        Element: Aero\n
+    </string>
+
+    <string name="lingyang_description">
+        Lingyang is talented and friendly member of the Liondance Troupe in Jinzhou. His passion and courage are evident as he engages with humans, showcasing his impressive physical abilities. With his unique style, he embodies the spirit of Liondancing.\n\n
+        Weapon: Gauntlets\n
+        Rarity: ★★★★★\n
+        Element: Aero\n
+    </string>
+a
+    <string name="mortefi_description">
+        Mortefi, a skilled expert in Applied Tacetite Study and a member of the Academy’s Department of Safety, possesses the unique ability to transform his accumulated frustration into fiery flames. From a burning wrath that consumes all, the red dragon shall descend.\n\n
+        Weapon: Pistols\n
+        Rarity: ★★★★\n
+        Element: Fusion\n
+    </string>
+
+    <string name="rover_description">
+        A mysterious Resonator with the power to absorb all sounds. Currently journeying to find their lost memories.\n\n
+        Weapon: Sword\n
+        Rarity: ★★★★★\n
+        Element: Spectro\n
+    </string>
+
+    <string name="sanhua_description">
+        The bodyguard of Jinzhou’s Magistrate, known for having an icy personality. Once regarded as the Asura of Calamity, Sanhua is now a taciturn guardian. She has learned to maintain inner calmness amidst the chaotic frequencies, and the things that once frightened her now fuel her determination.\n\n
+        Weapon: Sword\n
+        Rarity: ★★★★\n
+        Element: Glacio\n
+    </string>
+
+    <string name="shorekeeper_description">
+        She is known as "the Second Instance," the Guardian of the Black Shores, a mythical entity of high-purity Remnant Energy crystals with the power to control the stars, only appearing during time of crisis to aid the true leader of the Black Shores. Unlike conventional resonance logic, the Second Instance can directly utilize Remnant Energy as her body is composed of Sonoro Spheres.\n\n
+        Weapon: Rectifier\n
+        Rarity: ★★★★★\n
+        Element: Spectro\n
+    </string>
+
+    <string name="taoqi_description">
+        Taoqi is the director of border defense at the Ministry of Development. Despite her seemingly laid-back demeanor, she consistently proves to be a dependable and supportive individual, always lending her hand to those in need. Taoqi is not only a reliable colleague, but also a trustworthy friend that people can confide in.\n\n
+        Weapon: Broadblade\n
+        Rarity: ★★★★\n
+        Element: Havoc\n
+    </string>
+
+    <string name="verina_description">
+        With an extensive knowledge of botany, Verina is always solicitous, always smiling, and always wishing for every flower to be blessed with the miracle of life.\n\n
+        Weapon: Rectifier\n
+        Rarity: ★★★★★\n
+        Element: Aero\n
+    </string>
+
+    <string name="xiangliyao_description">
+        Principal Investigator at Huaxu Academy Jinzhou Campus, and the Academy youngest multi-disciplinary scientist. A gentle soul with a sharp mind, whose relentless passion for Automata Mechanics always translates into constructive findings and insights.\n\n
+        Weapon: Gauntlets\n
+        Rarity: ★★★★★\n
+        Element: Electro\n
+    </string>
+
+    <string name="yangyang_description">
+        Yangyang is an Outrider of the Midnight Rangers. Once sheltered, now a fighter. She soars with the wind to protect others, like a skylark in flight.\n\n
+        Weapon: Sword\n
+        Rarity: ★★★★\n
+        Element: Aero\n
+    </string>
+
+    <string name="yinlin_description">
+        Yinlin is a skilled Patroller and powerful Natural Resonator. After being suspended from her duties at the Public Security Bureau, she must now pursue hidden evils in secrecy.\n\n
+        Weapon: Rectifier\n
+        Rarity: ★★★★★\n
+        Element: Electro\n
+    </string>
+
+    <string name="youhu_description">
+        An artist for hire trying to make a living. Reserved and timid, she is not good with words but speaks volumes through her art, where her creations come to life with impossible authenticity.\n\n
+        Weapon: Gauntlets\n
+        Rarity: ★★★★\n
+        Element: Glacio\n
+    </string>
+
+    <string name="yuanwu_description">
+        Yuanwu owns a boxing gym where he teaches martial arts and health management. He is well-respected in the community for his cordial demeanor and pleasant temperament.\n\n
+        Weapon: Gauntlets\n
+        Rarity: ★★★★\n
+        Element: Electro\n
+    </string>
+
+    <string name="zhezhi_description">
+        An artist for hire trying to make a living. Reserved and timid, she is not good with words but speaks volumes through her art, where her creations come to life with impossible authenticity.\n\n
+        Weapon: Rectifier\n
+        Rarity: ★★★★★\n
+        Element: Glacio\n
+    </string>
 
 
 </resources>
