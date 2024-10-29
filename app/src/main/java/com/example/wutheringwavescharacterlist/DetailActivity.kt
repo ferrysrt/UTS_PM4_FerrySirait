@@ -14,7 +14,7 @@ class DetailActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         setSupportActionBar(binding.toolbar)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true) // Tombol back
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         val characterName = intent.getStringExtra("characterName")
         val characterDescription = intent.getStringExtra("characterDescription")
